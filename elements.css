@@ -1,0 +1,17 @@
+@import url(globals.css);
+
+h1{
+  font-size : var(--font-size-heading1);
+  color : var(--text-color-heading);
+  font-family : var(--font-family--Display-font);
+}
+
+p{
+  font-size : var(--font-size-text);
+  color : var(--text-color);
+  font-family : var(--font-family--Body-font);
+}
+
+li{
+  color : var(--text-color-heading);
+}
