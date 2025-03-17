@@ -306,6 +306,7 @@ li{
     .container{
       max-width : 1240px;
       margin-inline : auto;
+      padding-inline : 15px;
     }
   }
 
@@ -313,6 +314,7 @@ li{
     .container{
       max-width : 1240px;
       margin-inline : auto;
+      padding-inline : 15px;
     }
   }
 
@@ -320,6 +322,7 @@ li{
     .container{
       max-width : 960px;
       margin-inline : auto;
+      padding-inline : 15px;
     }
   }
 
@@ -327,6 +330,7 @@ li{
     .container{
       max-width : 720px;
       margin-inline : auto;
+      padding-inline : 15px;
     }
   }
 
@@ -334,6 +338,7 @@ li{
     .container{
       max-width : 540px;
       margin-inline : auto;
+      padding-inline : 15px;
     }
   }
 
@@ -341,6 +346,7 @@ li{
     .container{
       max-width : 100%;
       margin-inline : auto;
+      padding-inline : 15px;
     }
   }
 
